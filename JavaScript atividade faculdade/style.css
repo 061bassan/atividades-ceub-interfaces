@@ -1,0 +1,16 @@
+:root { --roxo: #4b0f5c; --roxo-claro: #6a2c91; --fundo: #f7f4fa; --texto: #222; }
+* { box-sizing: border-box; }
+body { font-family: system-ui, Arial, sans-serif; background: var(--fundo); color: var(--texto);
+  max-width: 720px; margin: 0 auto; padding: 24px 16px; line-height: 1.5; }
+h1 { color: var(--roxo); }
+h2 { color: var(--roxo-claro); margin-top: 0; }
+section { background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px; }
+label { display: inline-block; margin: 4px 8px 4px 0; }
+input { padding: 6px 8px; border: 1px solid #aaa; border-radius: 4px; max-width: 100%; }
+input:focus-visible, button:focus-visible { outline: 3px solid var(--roxo-claro); outline-offset: 1px; }
+button { padding: 7px 14px; background: var(--roxo); color: #fff; border: 0; border-radius: 4px; cursor: pointer; }
+button:hover { background: var(--roxo-claro); }
+.resultado { font-weight: bold; min-height: 1.5em; margin-top: 12px; }
+.ok { color: #1b6e2f; }
+.erro { color: #b00020; }
+nav a { color: var(--roxo-claro); }
