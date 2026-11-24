@@ -7,9 +7,9 @@ Atividades da disciplina de Desenvolvimento de Interfaces (CEUB).
 | Caminho | Descrição |
 |---|---|
 | `index.html` | Página inicial com links para as atividades |
-| `html-basico/` | `hobby.html` (hobby: videogame) e `primeira-pagina.html` (alerta em JavaScript) |
-| `ihc/` | Análise de IHC do Spotify: `atividade-ihc.html` e `atividade-ihc-spotify.md` |
-| `javascript-aula-3/` | Aula 3 de JavaScript: laboratórios 1 e 2 e exercícios de fixação |
+| `aula-1/` | HTML básico: `hobby.html` (hobby: videogame) e `primeira-pagina.html` (alerta em JavaScript) |
+| `aula-2/` | IHC: análise do Spotify: `atividade-ihc.html` e `atividade-ihc-spotify.md` |
+| `aula-3/` | JavaScript: laboratórios 1 e 2 e exercícios de fixação |
 | `assets/style.css` | Estilos compartilhados (responsivo, com modo escuro) |
 
 ## GitHub Pages
