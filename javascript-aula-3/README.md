@@ -1,4 +1,4 @@
-# JavaScript — Aula 2: Entrada de dados, DOM e condicionais
+# JavaScript — Aula 3: Entrada de dados, DOM e condicionais
 
 Desenvolvimento de Interface · ADS · CEUB · Profa. Kadidja Valéria
 

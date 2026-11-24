@@ -1,4 +1,4 @@
-// Exercícios de fixação — Aula 2
+// Exercícios de fixação — Aula 3
 function mostrar(id, msg, ok) {
   const el = document.getElementById(id);
   el.textContent = msg;
